@@ -1,0 +1,1 @@
+Classic cyphers written in java for specfically encrypting and decrypting Amharic character set.
